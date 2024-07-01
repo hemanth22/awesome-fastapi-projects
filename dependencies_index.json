@@ -32707,6 +32707,1802 @@
         {
             "id": 8178,
             "name": "sparrow_parse"
+        },
+        {
+            "id": 8179,
+            "name": "rag_config"
+        },
+        {
+            "id": 8180,
+            "name": "spider"
+        },
+        {
+            "id": 8181,
+            "name": "__abc"
+        },
+        {
+            "id": 8182,
+            "name": "if_name_main_pkg"
+        },
+        {
+            "id": 8183,
+            "name": "prime_sieve"
+        },
+        {
+            "id": 8184,
+            "name": "turing_machine"
+        },
+        {
+            "id": 8185,
+            "name": "struct2"
+        },
+        {
+            "id": 8186,
+            "name": "glfw"
+        },
+        {
+            "id": 8187,
+            "name": "imgui"
+        },
+        {
+            "id": 8188,
+            "name": "janitor"
+        },
+        {
+            "id": 8189,
+            "name": "pytest_shutil"
+        },
+        {
+            "id": 8190,
+            "name": "bcp47"
+        },
+        {
+            "id": 8191,
+            "name": "rosbag"
+        },
+        {
+            "id": 8192,
+            "name": "modelopt"
+        },
+        {
+            "id": 8193,
+            "name": "easydel"
+        },
+        {
+            "id": 8194,
+            "name": "modelscope_studio"
+        },
+        {
+            "id": 8195,
+            "name": "pandas_gbq"
+        },
+        {
+            "id": 8196,
+            "name": "defog_data_private"
+        },
+        {
+            "id": 8197,
+            "name": "defog_data"
+        },
+        {
+            "id": 8198,
+            "name": "vllm_flash_attn"
+        },
+        {
+            "id": 8199,
+            "name": "kedro_code"
+        },
+        {
+            "id": 8200,
+            "name": "hamilton_code"
+        },
+        {
+            "id": 8201,
+            "name": "agent_rearrange"
+        },
+        {
+            "id": 8202,
+            "name": "env_config"
+        },
+        {
+            "id": 8203,
+            "name": "sqlean"
+        },
+        {
+            "id": 8204,
+            "name": "deprecation"
+        },
+        {
+            "id": 8205,
+            "name": "langchain_azure_dynamic_sessions"
+        },
+        {
+            "id": 8206,
+            "name": "nturl2path"
+        },
+        {
+            "id": 8207,
+            "name": "_lsprof"
+        },
+        {
+            "id": 8208,
+            "name": "_decimal"
+        },
+        {
+            "id": 8209,
+            "name": "_heapq"
+        },
+        {
+            "id": 8210,
+            "name": "eagle"
+        },
+        {
+            "id": 8211,
+            "name": "mldesigner"
+        },
+        {
+            "id": 8212,
+            "name": "mpmath"
+        },
+        {
+            "id": 8213,
+            "name": "hid"
+        },
+        {
+            "id": 8214,
+            "name": "msgraph"
+        },
+        {
+            "id": 8215,
+            "name": "yame"
+        },
+        {
+            "id": 8216,
+            "name": "qactor"
+        },
+        {
+            "id": 8217,
+            "name": "alipcs_py"
+        },
+        {
+            "id": 8218,
+            "name": "pyqttoast"
+        },
+        {
+            "id": 8219,
+            "name": "mov_cli_youtube"
+        },
+        {
+            "id": 8220,
+            "name": "devgoldyutils"
+        },
+        {
+            "id": 8221,
+            "name": "langchain_prompty"
+        },
+        {
+            "id": 8222,
+            "name": "autogenstudio"
+        },
+        {
+            "id": 8223,
+            "name": "snowballstemmer"
+        },
+        {
+            "id": 8224,
+            "name": "lavague"
+        },
+        {
+            "id": 8225,
+            "name": "fastapi_cli"
+        },
+        {
+            "id": 8226,
+            "name": "adafruit_ssd1306"
+        },
+        {
+            "id": 8227,
+            "name": "phue"
+        },
+        {
+            "id": 8228,
+            "name": "simple_parsing"
+        },
+        {
+            "id": 8229,
+            "name": "oss"
+        },
+        {
+            "id": 8230,
+            "name": "pywatchman"
+        },
+        {
+            "id": 8231,
+            "name": "gilfoyle"
+        },
+        {
+            "id": 8232,
+            "name": "swebench"
+        },
+        {
+            "id": 8233,
+            "name": "warcio"
+        },
+        {
+            "id": 8234,
+            "name": "pytorch_warmup"
+        },
+        {
+            "id": 8235,
+            "name": "mmocr"
+        },
+        {
+            "id": 8236,
+            "name": "mmedit"
+        },
+        {
+            "id": 8237,
+            "name": "eagleeye"
+        },
+        {
+            "id": 8238,
+            "name": "read_ImageNetData"
+        },
+        {
+            "id": 8239,
+            "name": "antvis"
+        },
+        {
+            "id": 8240,
+            "name": "aimet_torch"
+        },
+        {
+            "id": 8241,
+            "name": "aligo"
+        },
+        {
+            "id": 8242,
+            "name": "poptorch"
+        },
+        {
+            "id": 8243,
+            "name": "system"
+        },
+        {
+            "id": 8244,
+            "name": "manopth"
+        },
+        {
+            "id": 8245,
+            "name": "ofa"
+        },
+        {
+            "id": 8246,
+            "name": "MobileNetV2"
+        },
+        {
+            "id": 8247,
+            "name": "aimet_common"
+        },
+        {
+            "id": 8248,
+            "name": "tfrecord"
+        },
+        {
+            "id": 8249,
+            "name": "pycozo"
+        },
+        {
+            "id": 8250,
+            "name": "replit"
+        },
+        {
+            "id": 8251,
+            "name": "ward"
+        },
+        {
+            "id": 8252,
+            "name": "model_api"
+        },
+        {
+            "id": 8253,
+            "name": "cozo_migrate"
+        },
+        {
+            "id": 8254,
+            "name": "agents_api"
+        },
+        {
+            "id": 8255,
+            "name": "julep"
+        },
+        {
+            "id": 8256,
+            "name": "langchain_huggingface"
+        },
+        {
+            "id": 8257,
+            "name": "stdlibs"
+        },
+        {
+            "id": 8258,
+            "name": "kosmos2_5"
+        },
+        {
+            "id": 8259,
+            "name": "trackingserver_extensions"
+        },
+        {
+            "id": 8260,
+            "name": "reload_data"
+        },
+        {
+            "id": 8261,
+            "name": "langchain_qdrant"
+        },
+        {
+            "id": 8262,
+            "name": "yaml_utils"
+        },
+        {
+            "id": 8263,
+            "name": "custom_model"
+        },
+        {
+            "id": 8264,
+            "name": "resolve_environment_utils"
+        },
+        {
+            "id": 8265,
+            "name": "toolchains_test_utils"
+        },
+        {
+            "id": 8266,
+            "name": "mypy_boto3_c3"
+        },
+        {
+            "id": 8267,
+            "name": "writer"
+        },
+        {
+            "id": 8268,
+            "name": "pybyonoy_device_library"
+        },
+        {
+            "id": 8269,
+            "name": "whatthepatch"
+        },
+        {
+            "id": 8270,
+            "name": "llamafactory"
+        },
+        {
+            "id": 8271,
+            "name": "dataherald"
+        },
+        {
+            "id": 8272,
+            "name": "prometheus_service"
+        },
+        {
+            "id": 8273,
+            "name": "jinja_partials"
+        },
+        {
+            "id": 8274,
+            "name": "scrapegraphai"
+        },
+        {
+            "id": 8275,
+            "name": "pymarkdown"
+        },
+        {
+            "id": 8276,
+            "name": "atomic_bomb_engine"
+        },
+        {
+            "id": 8277,
+            "name": "snoop"
+        },
+        {
+            "id": 8278,
+            "name": "django_elasticsearch_dsl"
+        },
+        {
+            "id": 8279,
+            "name": "argdantic"
+        },
+        {
+            "id": 8280,
+            "name": "eetq"
+        },
+        {
+            "id": 8281,
+            "name": "pipecat"
+        },
+        {
+            "id": 8282,
+            "name": "pyht"
+        },
+        {
+            "id": 8283,
+            "name": "essentia"
+        },
+        {
+            "id": 8284,
+            "name": "pretty_midi"
+        },
+        {
+            "id": 8285,
+            "name": "rhoknp"
+        },
+        {
+            "id": 8286,
+            "name": "pyctcdecode"
+        },
+        {
+            "id": 8287,
+            "name": "b2sdk"
+        },
+        {
+            "id": 8288,
+            "name": "nebulaml"
+        },
+        {
+            "id": 8289,
+            "name": "mltable"
+        },
+        {
+            "id": 8290,
+            "name": "simplification"
+        },
+        {
+            "id": 8291,
+            "name": "amlsecscan"
+        },
+        {
+            "id": 8292,
+            "name": "ml_wrappers"
+        },
+        {
+            "id": 8293,
+            "name": "tf_helper"
+        },
+        {
+            "id": 8294,
+            "name": "promptflow_vectordb"
+        },
+        {
+            "id": 8295,
+            "name": "classify"
+        },
+        {
+            "id": 8296,
+            "name": "responsibleai"
+        },
+        {
+            "id": 8297,
+            "name": "raiutils"
+        },
+        {
+            "id": 8298,
+            "name": "ripser"
+        },
+        {
+            "id": 8299,
+            "name": "persim"
+        },
+        {
+            "id": 8300,
+            "name": "kmapper"
+        },
+        {
+            "id": 8301,
+            "name": "st_audiorec"
+        },
+        {
+            "id": 8302,
+            "name": "onedatafilerestclient"
+        },
+        {
+            "id": 8303,
+            "name": "pcapng"
+        },
+        {
+            "id": 8304,
+            "name": "xinference_client"
+        },
+        {
+            "id": 8305,
+            "name": "asknews_sdk"
+        },
+        {
+            "id": 8306,
+            "name": "aerospike_vector_search"
+        },
+        {
+            "id": 8307,
+            "name": "Websearch"
+        },
+        {
+            "id": 8308,
+            "name": "briton_pb2_grpc"
+        },
+        {
+            "id": 8309,
+            "name": "briton_pb2"
+        },
+        {
+            "id": 8310,
+            "name": "writerai"
+        },
+        {
+            "id": 8311,
+            "name": "s3_sqs_lambda_bedrock_s3_cdk_python"
+        },
+        {
+            "id": 8312,
+            "name": "py_wanderer"
+        },
+        {
+            "id": 8313,
+            "name": "powerlift"
+        },
+        {
+            "id": 8314,
+            "name": "json_stream"
+        },
+        {
+            "id": 8315,
+            "name": "langchain_benchmarks"
+        },
+        {
+            "id": 8316,
+            "name": "musetalk"
+        },
+        {
+            "id": 8317,
+            "name": "musev"
+        },
+        {
+            "id": 8318,
+            "name": "mmcm"
+        },
+        {
+            "id": 8319,
+            "name": "gradio_video2video"
+        },
+        {
+            "id": 8320,
+            "name": "manager_client"
+        },
+        {
+            "id": 8321,
+            "name": "User_Profile"
+        },
+        {
+            "id": 8322,
+            "name": "mergemate"
+        },
+        {
+            "id": 8323,
+            "name": "AI_courtroom"
+        },
+        {
+            "id": 8324,
+            "name": "Judica"
+        },
+        {
+            "id": 8325,
+            "name": "nextgenautogpt"
+        },
+        {
+            "id": 8326,
+            "name": "scrapfly"
+        },
+        {
+            "id": 8327,
+            "name": "manticoresearch"
+        },
+        {
+            "id": 8328,
+            "name": "yahoo_search"
+        },
+        {
+            "id": 8329,
+            "name": "langchain_milvus"
+        },
+        {
+            "id": 8330,
+            "name": "blind_watermark"
+        },
+        {
+            "id": 8331,
+            "name": "uno"
+        },
+        {
+            "id": 8332,
+            "name": "fnc"
+        },
+        {
+            "id": 8333,
+            "name": "pywikibot"
+        },
+        {
+            "id": 8334,
+            "name": "habana_quantization_toolkit"
+        },
+        {
+            "id": 8335,
+            "name": "xlm"
+        },
+        {
+            "id": 8336,
+            "name": "agents_v2"
+        },
+        {
+            "id": 8337,
+            "name": "caldav"
+        },
+        {
+            "id": 8338,
+            "name": "flupy"
+        },
+        {
+            "id": 8339,
+            "name": "create_llama"
+        },
+        {
+            "id": 8340,
+            "name": "gen_ai_orchestrator"
+        },
+        {
+            "id": 8341,
+            "name": "api_trt"
+        },
+        {
+            "id": 8342,
+            "name": "neuronx_distributed"
+        },
+        {
+            "id": 8343,
+            "name": "sshtunnel_requests"
+        },
+        {
+            "id": 8344,
+            "name": "wonderwords"
+        },
+        {
+            "id": 8345,
+            "name": "plivo"
+        },
+        {
+            "id": 8346,
+            "name": "tinytuya"
+        },
+        {
+            "id": 8347,
+            "name": "qfluentwidgets"
+        },
+        {
+            "id": 8348,
+            "name": "openai_token_counter"
+        },
+        {
+            "id": 8349,
+            "name": "jsonstreamer"
+        },
+        {
+            "id": 8350,
+            "name": "dialog_lib"
+        },
+        {
+            "id": 8351,
+            "name": "Antropic"
+        },
+        {
+            "id": 8352,
+            "name": "sqlmesh"
+        },
+        {
+            "id": 8353,
+            "name": "py_markdown_table"
+        },
+        {
+            "id": 8354,
+            "name": "gemini_webapi"
+        },
+        {
+            "id": 8355,
+            "name": "lama_cleaner_masked_content"
+        },
+        {
+            "id": 8356,
+            "name": "lib_inpaint_difference"
+        },
+        {
+            "id": 8357,
+            "name": "alignment"
+        },
+        {
+            "id": 8358,
+            "name": "translation"
+        },
+        {
+            "id": 8359,
+            "name": "interface_api"
+        },
+        {
+            "id": 8360,
+            "name": "qasync"
+        },
+        {
+            "id": 8361,
+            "name": "keysymdef"
+        },
+        {
+            "id": 8362,
+            "name": "transitions"
+        },
+        {
+            "id": 8363,
+            "name": "sax"
+        },
+        {
+            "id": 8364,
+            "name": "jetstream"
+        },
+        {
+            "id": 8365,
+            "name": "maxdiffusion"
+        },
+        {
+            "id": 8366,
+            "name": "zep_cloud"
+        },
+        {
+            "id": 8367,
+            "name": "patch"
+        },
+        {
+            "id": 8368,
+            "name": "marimo"
+        },
+        {
+            "id": 8369,
+            "name": "language_evaluation"
+        },
+        {
+            "id": 8370,
+            "name": "modeling_t5"
+        },
+        {
+            "id": 8371,
+            "name": "modeling_bart"
+        },
+        {
+            "id": 8372,
+            "name": "lxrt"
+        },
+        {
+            "id": 8373,
+            "name": "vit"
+        },
+        {
+            "id": 8374,
+            "name": "captioning"
+        },
+        {
+            "id": 8375,
+            "name": "h5_data"
+        },
+        {
+            "id": 8376,
+            "name": "classification_data"
+        },
+        {
+            "id": 8377,
+            "name": "pretrain"
+        },
+        {
+            "id": 8378,
+            "name": "vlm"
+        },
+        {
+            "id": 8379,
+            "name": "refer"
+        },
+        {
+            "id": 8380,
+            "name": "transormers"
+        },
+        {
+            "id": 8381,
+            "name": "rag_milvus"
+        },
+        {
+            "id": 8382,
+            "name": "AGiXT"
+        },
+        {
+            "id": 8383,
+            "name": "shark_turbine"
+        },
+        {
+            "id": 8384,
+            "name": "tantivy"
+        },
+        {
+            "id": 8385,
+            "name": "xe_linear"
+        },
+        {
+            "id": 8386,
+            "name": "xe_batch"
+        },
+        {
+            "id": 8387,
+            "name": "xe_addons"
+        },
+        {
+            "id": 8388,
+            "name": "fla"
+        },
+        {
+            "id": 8389,
+            "name": "causal_conv1d"
+        },
+        {
+            "id": 8390,
+            "name": "pytomlpp"
+        },
+        {
+            "id": 8391,
+            "name": "pyseccomp"
+        },
+        {
+            "id": 8392,
+            "name": "pynvbufsurfacegenerator"
+        },
+        {
+            "id": 8393,
+            "name": "node_helpers"
+        },
+        {
+            "id": 8394,
+            "name": "torch_migraphx"
+        },
+        {
+            "id": 8395,
+            "name": "mulankit"
+        },
+        {
+            "id": 8396,
+            "name": "mypy_boto3_dynamodb"
+        },
+        {
+            "id": 8397,
+            "name": "jetstream_pt"
+        },
+        {
+            "id": 8398,
+            "name": "MagicalAuth"
+        },
+        {
+            "id": 8399,
+            "name": "Globals"
+        },
+        {
+            "id": 8400,
+            "name": "uform"
+        },
+        {
+            "id": 8401,
+            "name": "apigw_vpclink_pvtnlb_fargate_cdk_python"
+        },
+        {
+            "id": 8402,
+            "name": "bundle_dependency"
+        },
+        {
+            "id": 8403,
+            "name": "provider_dependency"
+        },
+        {
+            "id": 8404,
+            "name": "rxnmapper"
+        },
+        {
+            "id": 8405,
+            "name": "rxnutils"
+        },
+        {
+            "id": 8406,
+            "name": "cookie"
+        },
+        {
+            "id": 8407,
+            "name": "aiogram_dialog"
+        },
+        {
+            "id": 8408,
+            "name": "pai_rag"
+        },
+        {
+            "id": 8409,
+            "name": "uncurl"
+        },
+        {
+            "id": 8410,
+            "name": "XT"
+        },
+        {
+            "id": 8411,
+            "name": "pyke"
+        },
+        {
+            "id": 8412,
+            "name": "lenlp"
+        },
+        {
+            "id": 8413,
+            "name": "joserfc"
+        },
+        {
+            "id": 8414,
+            "name": "llist"
+        },
+        {
+            "id": 8415,
+            "name": "fooocus"
+        },
+        {
+            "id": 8416,
+            "name": "baml_py"
+        },
+        {
+            "id": 8417,
+            "name": "essential_generators"
+        },
+        {
+            "id": 8418,
+            "name": "password"
+        },
+        {
+            "id": 8419,
+            "name": "match"
+        },
+        {
+            "id": 8420,
+            "name": "type"
+        },
+        {
+            "id": 8421,
+            "name": "case"
+        },
+        {
+            "id": 8422,
+            "name": "autogpt_server"
+        },
+        {
+            "id": 8423,
+            "name": "dicom_validator"
+        },
+        {
+            "id": 8424,
+            "name": "prefect_redis"
+        },
+        {
+            "id": 8425,
+            "name": "feature_store"
+        },
+        {
+            "id": 8426,
+            "name": "styles"
+        },
+        {
+            "id": 8427,
+            "name": "tictactoe"
+        },
+        {
+            "id": 8428,
+            "name": "shoelace"
+        },
+        {
+            "id": 8429,
+            "name": "my_project"
+        },
+        {
+            "id": 8430,
+            "name": "ginfer"
+        },
+        {
+            "id": 8431,
+            "name": "load_csv"
+        },
+        {
+            "id": 8432,
+            "name": "app_settings"
+        },
+        {
+            "id": 8433,
+            "name": "state"
+        },
+        {
+            "id": 8434,
+            "name": "image_ops"
+        },
+        {
+            "id": 8435,
+            "name": "context"
+        },
+        {
+            "id": 8436,
+            "name": "memgpt"
+        },
+        {
+            "id": 8437,
+            "name": "came_pytorch"
+        },
+        {
+            "id": 8438,
+            "name": "streamv2v"
+        },
+        {
+            "id": 8439,
+            "name": "pypyodbc"
+        },
+        {
+            "id": 8440,
+            "name": "pocode"
+        },
+        {
+            "id": 8441,
+            "name": "trunk"
+        },
+        {
+            "id": 8442,
+            "name": "meteostat"
+        },
+        {
+            "id": 8443,
+            "name": "EEUTILITY"
+        },
+        {
+            "id": 8444,
+            "name": "cvxoptklu"
+        },
+        {
+            "id": 8445,
+            "name": "power_grid_model"
+        },
+        {
+            "id": 8446,
+            "name": "darkdetect"
+        },
+        {
+            "id": 8447,
+            "name": "GridCalEngine"
+        },
+        {
+            "id": 8448,
+            "name": "pymoo"
+        },
+        {
+            "id": 8449,
+            "name": "tutorials"
+        },
+        {
+            "id": 8450,
+            "name": "pypardiso"
+        },
+        {
+            "id": 8451,
+            "name": "EnergyExemplar"
+        },
+        {
+            "id": 8452,
+            "name": "highspy"
+        },
+        {
+            "id": 8453,
+            "name": "powerfactory"
+        },
+        {
+            "id": 8454,
+            "name": "GridCalServer"
+        },
+        {
+            "id": 8455,
+            "name": "pvlib"
+        },
+        {
+            "id": 8456,
+            "name": "GridCal"
+        },
+        {
+            "id": 8457,
+            "name": "windpowerlib"
+        },
+        {
+            "id": 8458,
+            "name": "newtonpa"
+        },
+        {
+            "id": 8459,
+            "name": "bentayga"
+        },
+        {
+            "id": 8460,
+            "name": "gurobi_optimods"
+        },
+        {
+            "id": 8461,
+            "name": "nptyping"
+        },
+        {
+            "id": 8462,
+            "name": "pypsa"
+        },
+        {
+            "id": 8463,
+            "name": "dbutils"
+        },
+        {
+            "id": 8464,
+            "name": "google_drive_tool"
+        },
+        {
+            "id": 8465,
+            "name": "gotrue"
+        },
+        {
+            "id": 8466,
+            "name": "common_src"
+        },
+        {
+            "id": 8467,
+            "name": "transcribee_worker"
+        },
+        {
+            "id": 8468,
+            "name": "transcribee_proto"
+        },
+        {
+            "id": 8469,
+            "name": "icu"
+        },
+        {
+            "id": 8470,
+            "name": "transcribee_backend"
+        },
+        {
+            "id": 8471,
+            "name": "spectralcluster"
+        },
+        {
+            "id": 8472,
+            "name": "automerge"
+        },
+        {
+            "id": 8473,
+            "name": "codeshield"
+        },
+        {
+            "id": 8474,
+            "name": "PyFlyt"
+        },
+        {
+            "id": 8475,
+            "name": "EmQuantAPI"
+        },
+        {
+            "id": 8476,
+            "name": "snake"
+        },
+        {
+            "id": 8477,
+            "name": "nemo_text_processing"
+        },
+        {
+            "id": 8478,
+            "name": "zenguard"
+        },
+        {
+            "id": 8479,
+            "name": "langchain_couchbase"
+        },
+        {
+            "id": 8480,
+            "name": "upstash_ratelimit"
+        },
+        {
+            "id": 8481,
+            "name": "calculate_age"
+        },
+        {
+            "id": 8482,
+            "name": "utilize_date"
+        },
+        {
+            "id": 8483,
+            "name": "voxec"
+        },
+        {
+            "id": 8484,
+            "name": "libth_transformer"
+        },
+        {
+            "id": 8485,
+            "name": "defog_utils"
+        },
+        {
+            "id": 8486,
+            "name": "pyltp"
+        },
+        {
+            "id": 8487,
+            "name": "ltp_core"
+        },
+        {
+            "id": 8488,
+            "name": "pyrootutils"
+        },
+        {
+            "id": 8489,
+            "name": "ltp_extension"
+        },
+        {
+            "id": 8490,
+            "name": "thulac"
+        },
+        {
+            "id": 8491,
+            "name": "Conversations"
+        },
+        {
+            "id": 8492,
+            "name": "mirrorsrun"
+        },
+        {
+            "id": 8493,
+            "name": "ChatTTS"
+        },
+        {
+            "id": 8494,
+            "name": "sqlalchemy_file"
+        },
+        {
+            "id": 8495,
+            "name": "yagooglesearch"
+        },
+        {
+            "id": 8496,
+            "name": "sqlite_vec"
+        },
+        {
+            "id": 8497,
+            "name": "ai21_tokenizer"
+        },
+        {
+            "id": 8498,
+            "name": "dictdiffer"
+        },
+        {
+            "id": 8499,
+            "name": "python_constant"
+        },
+        {
+            "id": 8500,
+            "name": "jiter"
+        },
+        {
+            "id": 8501,
+            "name": "build_wheel"
+        },
+        {
+            "id": 8502,
+            "name": "multipledispatch"
+        },
+        {
+            "id": 8503,
+            "name": "libtorch_serving"
+        },
+        {
+            "id": 8504,
+            "name": "ksana_llm"
+        },
+        {
+            "id": 8505,
+            "name": "base_method"
+        },
+        {
+            "id": 8506,
+            "name": "fastf1"
+        },
+        {
+            "id": 8507,
+            "name": "filters"
+        },
+        {
+            "id": 8508,
+            "name": "whisper_trt"
+        },
+        {
+            "id": 8509,
+            "name": "pymupdf4llm"
+        },
+        {
+            "id": 8510,
+            "name": "clonevirtualenv"
+        },
+        {
+            "id": 8511,
+            "name": "libtpu"
+        },
+        {
+            "id": 8512,
+            "name": "piq"
+        },
+        {
+            "id": 8513,
+            "name": "torch_utils"
+        },
+        {
+            "id": 8514,
+            "name": "hidiffusion"
+        },
+        {
+            "id": 8515,
+            "name": "dnnlib"
+        },
+        {
+            "id": 8516,
+            "name": "pyspng"
+        },
+        {
+            "id": 8517,
+            "name": "ppo_trainer"
+        },
+        {
+            "id": 8518,
+            "name": "pedalboard"
+        },
+        {
+            "id": 8519,
+            "name": "digitar"
+        },
+        {
+            "id": 8520,
+            "name": "tablature"
+        },
+        {
+            "id": 8521,
+            "name": "pvkoala"
+        },
+        {
+            "id": 8522,
+            "name": "unitycatalog"
+        },
+        {
+            "id": 8523,
+            "name": "asn1crypto"
+        },
+        {
+            "id": 8524,
+            "name": "iniconfig"
+        },
+        {
+            "id": 8525,
+            "name": "hamilton_ui"
+        },
+        {
+            "id": 8526,
+            "name": "mnist_dataset"
+        },
+        {
+            "id": 8527,
+            "name": "pycsghub"
+        },
+        {
+            "id": 8528,
+            "name": "newrelic_k8s_operator"
+        },
+        {
+            "id": 8529,
+            "name": "llguidance"
+        },
+        {
+            "id": 8530,
+            "name": "swanboard"
+        },
+        {
+            "id": 8531,
+            "name": "tgate"
+        },
+        {
+            "id": 8532,
+            "name": "msimilarities"
+        },
+        {
+            "id": 8533,
+            "name": "mindnlp"
+        },
+        {
+            "id": 8534,
+            "name": "dashinfer"
+        },
+        {
+            "id": 8535,
+            "name": "latent_preview"
+        },
+        {
+            "id": 8536,
+            "name": "lollmsvectordb"
+        },
+        {
+            "id": 8537,
+            "name": "hubs"
+        },
+        {
+            "id": 8538,
+            "name": "ports"
+        },
+        {
+            "id": 8539,
+            "name": "bots"
+        },
+        {
+            "id": 8540,
+            "name": "nemoguardrails"
+        },
+        {
+            "id": 8541,
+            "name": "vqlm_demo"
+        },
+        {
+            "id": 8542,
+            "name": "muse"
+        },
+        {
+            "id": 8543,
+            "name": "cmk_update_agent"
+        },
+        {
+            "id": 8544,
+            "name": "roman"
+        },
+        {
+            "id": 8545,
+            "name": "cmc_proto"
+        },
+        {
+            "id": 8546,
+            "name": "robot"
+        },
+        {
+            "id": 8547,
+            "name": "sphinx_markdown_builder"
+        },
+        {
+            "id": 8548,
+            "name": "fastreid"
+        },
+        {
+            "id": 8549,
+            "name": "ci_webapp"
+        },
+        {
+            "id": 8550,
+            "name": "polyline"
+        },
+        {
+            "id": 8551,
+            "name": "streamlit_folium"
+        },
+        {
+            "id": 8552,
+            "name": "stuff"
+        },
+        {
+            "id": 8553,
+            "name": "py115"
+        },
+        {
+            "id": 8554,
+            "name": "intel_npu_acceleration_library"
+        },
+        {
+            "id": 8555,
+            "name": "torch_blade"
+        },
+        {
+            "id": 8556,
+            "name": "cyber_dev_day"
+        },
+        {
+            "id": 8557,
+            "name": "yfiles_jupyter_graphs"
+        },
+        {
+            "id": 8558,
+            "name": "swankit"
+        },
+        {
+            "id": 8559,
+            "name": "postgrest"
+        },
+        {
+            "id": 8560,
+            "name": "daily"
+        },
+        {
+            "id": 8561,
+            "name": "DB"
+        },
+        {
+            "id": 8562,
+            "name": "argilla_v1"
+        },
+        {
+            "id": 8563,
+            "name": "generatorcli"
+        },
+        {
+            "id": 8564,
+            "name": "model_providers"
+        },
+        {
+            "id": 8565,
+            "name": "document_loaders"
+        },
+        {
+            "id": 8566,
+            "name": "chatchat"
+        },
+        {
+            "id": 8567,
+            "name": "Pyro5"
+        },
+        {
+            "id": 8568,
+            "name": "ipylab"
+        },
+        {
+            "id": 8569,
+            "name": "qutip"
+        },
+        {
+            "id": 8570,
+            "name": "marker"
+        },
+        {
+            "id": 8571,
+            "name": "mixedbread_ai"
+        },
+        {
+            "id": 8572,
+            "name": "langchain_teddynote"
+        },
+        {
+            "id": 8573,
+            "name": "volcenginesdkarkruntime"
+        },
+        {
+            "id": 8574,
+            "name": "npu"
+        },
+        {
+            "id": 8575,
+            "name": "langchain_chatchat"
+        },
+        {
+            "id": 8576,
+            "name": "simpleinference"
+        },
+        {
+            "id": 8577,
+            "name": "llama_cloud"
+        },
+        {
+            "id": 8578,
+            "name": "compass_sdk"
+        },
+        {
+            "id": 8579,
+            "name": "openai_concurrent"
+        },
+        {
+            "id": 8580,
+            "name": "pd"
+        },
+        {
+            "id": 8581,
+            "name": "patsy"
+        },
+        {
+            "id": 8582,
+            "name": "ballyregan"
+        },
+        {
+            "id": 8583,
+            "name": "pdftext"
+        },
+        {
+            "id": 8584,
+            "name": "texify"
+        },
+        {
+            "id": 8585,
+            "name": "emojiswitch"
+        },
+        {
+            "id": 8586,
+            "name": "audio_denoiser"
+        },
+        {
+            "id": 8587,
+            "name": "augment"
+        },
+        {
+            "id": 8588,
+            "name": "celluloid"
+        },
+        {
+            "id": 8589,
+            "name": "inject"
+        },
+        {
+            "id": 8590,
+            "name": "poller"
+        },
+        {
+            "id": 8591,
+            "name": "superlinked"
+        },
+        {
+            "id": 8592,
+            "name": "promptsearch"
+        },
+        {
+            "id": 8593,
+            "name": "toggl"
+        },
+        {
+            "id": 8594,
+            "name": "kaapanapy"
+        },
+        {
+            "id": 8595,
+            "name": "async_batcher"
+        },
+        {
+            "id": 8596,
+            "name": "amdsmi"
+        },
+        {
+            "id": 8597,
+            "name": "test_fake_package"
+        },
+        {
+            "id": 8598,
+            "name": "cloudflare"
+        },
+        {
+            "id": 8599,
+            "name": "pick"
+        },
+        {
+            "id": 8600,
+            "name": "numba_scipy"
+        },
+        {
+            "id": 8601,
+            "name": "multi_node"
+        },
+        {
+            "id": 8602,
+            "name": "codegen"
+        },
+        {
+            "id": 8603,
+            "name": "jamba_swarm"
+        },
+        {
+            "id": 8604,
+            "name": "stacks"
+        },
+        {
+            "id": 8605,
+            "name": "custom_resources"
+        },
+        {
+            "id": 8606,
+            "name": "sources"
+        },
+        {
+            "id": 8607,
+            "name": "resemble_enhance"
+        },
+        {
+            "id": 8608,
+            "name": "quivr_core"
+        },
+        {
+            "id": 8609,
+            "name": "quivr_api"
+        },
+        {
+            "id": 8610,
+            "name": "fastapi_simple_rate_limiter"
+        },
+        {
+            "id": 8611,
+            "name": "cache_manager"
+        },
+        {
+            "id": 8612,
+            "name": "story_arc"
+        },
+        {
+            "id": 8613,
+            "name": "ai_manager"
+        },
+        {
+            "id": 8614,
+            "name": "save_manager"
+        },
+        {
+            "id": 8615,
+            "name": "loot"
+        },
+        {
+            "id": 8616,
+            "name": "story_node"
+        },
+        {
+            "id": 8617,
+            "name": "story_tree"
+        },
+        {
+            "id": 8618,
+            "name": "character"
+        },
+        {
+            "id": 8619,
+            "name": "item"
+        },
+        {
+            "id": 8620,
+            "name": "pyminizip"
+        },
+        {
+            "id": 8621,
+            "name": "harfile"
+        },
+        {
+            "id": 8622,
+            "name": "bisheng_ragas"
+        },
+        {
+            "id": 8623,
+            "name": "pybase16384"
+        },
+        {
+            "id": 8624,
+            "name": "pytestqt"
+        },
+        {
+            "id": 8625,
+            "name": "FreeSimpleGUI"
+        },
+        {
+            "id": 8626,
+            "name": "cleanlab_studio"
+        },
+        {
+            "id": 8627,
+            "name": "streamlit_echarts"
         }
     ]
 }
